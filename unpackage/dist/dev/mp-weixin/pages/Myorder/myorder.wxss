@@ -1,0 +1,216 @@
+
+.body {}
+.top-cont {
+	width: 100%;
+	height: 100rpx;
+	border-bottom: 1px solid #ccc;
+}
+.order-left {
+	float: left;
+	width: 10%;
+	height: 100rpx;
+}
+.order-mille {
+	float: left;
+	width: 70%;
+	height: 100rpx;
+	text-align: center;
+}
+.order-right {
+	float: left;
+	width: 20%;
+	height: 100rpx;
+}
+.order-leftpicbox {
+	width: 50rpx;
+	height: 50rpx;
+	margin: auto;
+	margin-top: 25rpx;
+}
+.order-leftpic {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+.mille-texe {
+	line-height: 100rpx;
+	font-weight: 500;
+}
+.order-picbox1 {
+	width: 55rpx;
+	height: 55rpx;
+	display: inline-block;
+	margin-top: 25rpx;
+	margin-right: 15rpx;
+}
+.order-picbox2 {
+	width: 55rpx;
+	height: 55rpx;
+	display: inline-block;
+}
+.order-right image {
+	width: 100%;
+	height: 100%;
+}
+
+/* 导航栏 */
+.bar {
+	width: 100%;
+	height: 90rpx;
+}
+.con-text {
+	line-height: 90rpx;
+	height: 90rpx;
+	width: 25%;
+	float: left;
+	text-align: center;
+	font-size: 28rpx;
+	border-bottom: 4rpx solid white;
+}
+.nnone {
+	line-height: 90rpx;
+	height: 90rpx;
+	width: 25%;
+	float: left;
+	text-align: center;
+	font-size: 28rpx;
+	border-bottom: 4rpx solid #FD6801;
+	color: #FD6801;
+}
+.swiper-box {
+	background-color: #F5F5F5;
+}
+
+/* 全部订单 */
+.details {
+	width: 100%;
+	height: 450rpx;
+	background-color: white;
+	margin-top: 20rpx;
+}
+.time-top {
+	width: 100%;
+	height: 80rpx;
+	border-bottom: 2rpx solid #ccc;
+}
+.time {
+	width: 70%;
+	height: 80rpx;
+	display: inline-block;
+	line-height: 80rpx;
+	text-indent: 20rpx;
+	float: left;
+	color: #BBBBBB;
+	font-size: 26rpx;
+}
+.state {
+	width: 30%;
+	height: 80rpx;
+	display: inline-block;
+	line-height: 80rpx;
+	text-indent: 120rpx;
+	float: left;
+	font-size: 24rpx;
+	color: #FD6801;
+}
+.details-middle {
+	width: 100%;
+	height: 190rpx;
+}
+.middle-one {
+	border-bottom: 2rpx solid #ccc;
+	width: 95%;
+	height: 190rpx;
+	margin: auto;
+}
+.middle-one-picbox {
+	width: 150rpx;
+	height: 150rpx;
+	margin-top: 18rpx;
+	margin-left: 20rpx;
+	float: left;
+}
+.middle-one-pic {
+	width: 100%;
+	height: 100%;
+}
+.middle-one-shop {
+	width: 300rpx;
+	height: 190rpx;
+	float: left;
+}
+.shop-name {
+	display: block;
+	margin-top: 52rpx;
+	margin-bottom: 10rpx;
+	margin-left: 14rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.shop-price {
+	display: block;
+	margin-top: 52rpx;
+	margin-bottom: 10rpx;
+	margin-left: 112rpx;
+	color: #B8B8B8;
+	font-size: 30rpx;
+}
+.shop-color {
+	display: block;
+	font-size: 26rpx;
+	color: #B8B8B8;
+	margin-left: 14rpx;
+}
+.shop-number {
+	display: block;
+	font-size: 26rpx;
+	color: #B8B8B8;
+	margin-left: 14rpx;
+	text-indent: 160rpx;
+}
+.middle-two-shop {
+	width: 150rpx;
+	height: 190rpx;
+	float: left;
+}
+.details-bottom {
+	width: 95%;
+	height: 180rpx;
+	margin: auto;
+}
+.details-bottom-left {
+	width: 50%;
+	height: 180rpx;
+	float: left;
+}
+.details-bottom-right {
+	width: 50%;
+	height: 180rpx;
+	float: left;
+}
+.bottom-right-allnum {
+	text-indent: 90rpx;
+	margin-top: 20rpx;
+}
+.bottom-right-text {
+	font-size: 26rpx;
+}
+.btn-one,
+.btn-two {
+	width: 150rpx;
+	height: 70rpx;
+	display: inline-block;
+	border: 1px solid #B8B8B8;
+	text-align: center;
+	line-height: 70rpx;
+	font-size: 28rpx;
+	border-radius: 4rpx;
+	color: #999;
+	margin-top: 30rpx;
+	margin-left: 20rpx;
+}
+.btn-s {
+	text-align: center;
+}
+

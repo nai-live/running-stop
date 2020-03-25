@@ -1,0 +1,124 @@
+
+.bg.data-v-645d5b35 {
+	width: 750rpx;
+	height: 352rpx;
+}
+.portraitBox.data-v-645d5b35 {
+	height: 320rpx;
+	overflow: hidden;
+	position: relative;
+}
+.portrait.data-v-645d5b35 {
+	position: absolute;
+	top: 140rpx;
+	left: 90rpx;
+}
+.portrait image.data-v-645d5b35 {
+	width: 130rpx;
+	height: 130rpx;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.juzhong.data-v-645d5b35 {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+}
+.name_he.data-v-645d5b35 {
+	width: 200rpx;
+	margin-left: 20rpx;
+	color: #fff;
+}
+.vipBox.data-v-645d5b35 {
+	color: #C94B01;
+	width: 300rpx;
+	background-color: #FFD43F;
+	font-size: 30rpx;
+	padding: 20rpx 30rpx;
+	position: absolute;
+	right: -30rpx;
+	top: 200rpx;
+	border-radius: 50rpx 0 0 50rpx;
+}
+.icon_vip.data-v-645d5b35 {
+	width: 30rpx;
+	height: 30rpx;
+	margin-left: 15rpx;
+}
+.vipBox>text.data-v-645d5b35 {
+	margin-left: 10rpx;
+	line-height: 50rpx;
+}
+.myOrder.data-v-645d5b35 {
+	height: 60rpx;
+	font-size: 36rpx;
+	line-height: 60rpx;
+	position: relative;
+	padding: 25rpx 40rpx;
+	border-bottom: 1px #ccc solid;
+	font-weight: 600;
+}
+.myOrder text.data-v-645d5b35:nth-child(2) {
+	font-size: 30rpx;
+	float: right;
+	margin-right: 50rpx;
+	color: #666;
+}
+.icon_jt.data-v-645d5b35 {
+	width: 60rpx;
+	height: 60rpx;
+	right: 30rpx;
+}
+.btn.data-v-645d5b35,
+.select.data-v-645d5b35 {
+	overflow: hidden;
+	border-bottom: 13px solid rgba(170, 170, 170, .1);
+}
+.btnBox.data-v-645d5b35 {
+	width: 25%;
+	text-align: center;
+	float: left;
+	font-size: 25rpx;
+	box-sizing: border-box;
+	padding: 20rpx 0;
+	font-weight: 600;
+	opacity: .7;
+}
+.btnBox image.data-v-645d5b35 {
+	width: 60rpx;
+	height: 60rpx;
+	opacity: .8;
+}
+.cen image.data-v-645d5b35 {
+	width: 750rpx;
+	height: 370rpx;
+}
+.selectBox.data-v-645d5b35 {
+	position: relative;
+	padding: 15px 100rpx;
+	border-bottom: 1px solid rgba(0, 0, 0, .1);
+}
+.selectBox .img.data-v-645d5b35 {
+	width: 40rpx;
+	height: 40rpx;
+	left: 40rpx;
+}
+.selectBox image.data-v-645d5b35 {
+	width: 100%;
+	height: 100%;
+}
+.icon_sel.data-v-645d5b35 {
+	width: 50rpx;
+	height: 50rpx;
+	right: 30rpx;
+}
+.icon_sel>image.data-v-645d5b35{
+	width: 100%;
+	height: 100%;
+}
+.icon_vip>image.data-v-645d5b35{
+	width: 100%;
+	height: 100%;
+}
+

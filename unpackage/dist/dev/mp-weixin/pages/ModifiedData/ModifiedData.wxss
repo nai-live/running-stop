@@ -1,0 +1,50 @@
+
+page.data-v-8003d816 {
+	background-color: #f8f8f8;
+}
+.juzhong.data-v-8003d816 {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+}
+.box.data-v-8003d816 {
+	border-bottom: 1px solid #f8f8f8;
+	background-color: #fff;
+	padding: 15px 40rpx;
+	position: relative;
+}
+.head.data-v-8003d816 {
+	padding: 30px 40rpx;
+	border-top: 15px solid #f8f8f8;
+}
+.icon_sel.data-v-8003d816 {
+	width: 50rpx;
+	height: 50rpx;
+	right: 30rpx;
+}
+.img.data-v-8003d816{
+	width: 50px;
+	height: 50px;
+	right: 20rpx;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.img image.data-v-8003d816{
+	width: 100%;
+	height: 100%;
+}
+.name_he.data-v-8003d816{
+	right: 80rpx;
+}
+.birthday.data-v-8003d816{
+}
+.pass.data-v-8003d816{
+	border-top: 15px solid #f8f8f8;
+}
+.icon_sel>image.data-v-8003d816{
+	width: 100%;
+	height: 100%;
+	opacity: .3;
+}
+

@@ -1,34 +1,166 @@
-<<<<<<< HEAD
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
-			"path": "pages/index/index",
+			"path": "pages/Index/index",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "uni-app",
+				"app-plus": {
+					"titleNView": false
+				},
+				"navigationStyle":"custom"
 			}
-		}
-	],
-	"globalStyle": {
-		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
-	}
-=======
-{
-	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		}, 
 		{
-			"path": "pages/index/index",
+		    "path" : "pages/SiteAll/SiteAll",
+		    "style" : {}
+		},
+		{
+			"path": "pages/Myorder/myorder",
 			"style": {
-				"navigationBarTitleText": "uni-app"
+				"navigationBarTitleText": "uni-app",
+				"app-plus": {
+					"titleNView": false
+				},
+				"navigationStyle":"custom"
+			}
+		}, 
+		{
+			"path": "pages/Search/search",
+			"style": {
+				"navigationBarTitleText": "搜索",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/Lists/lists",
+			"style": {
+				"navigationBarTitleText": "列表"
+				
+			}
+		},
+		{
+			"path": "pages/AddSite/AddSite",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		
+		}, 
+		{
+			"path": "pages/Classify/classify",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/Shipping/shipping",
+			"style": {
+				"navigationBarTitleText": "uni-app",
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/AmendSite/AmendSite",
+			"style": {
+				"navigationBarTitleText": "编辑收货地址",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+
+		},
+		{
+			"path": "pages/List/list",
+			"style": {
+				"navigationBarTitleText": "列表页"
+			}
+		},
+		{
+			"path": "pages/Cart/cart",
+			"style": {
+				"navigationBarTitleText": "购物车"
+			}
+		},
+		{
+			"path": "pages/My/my",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"app-plus": {
+					"titleNView": false
+				},
+				"navigationStyle":"custom"
 			}
 		}
-	],
+	    ,{
+            "path" : "pages/Install/install",
+            "style" : {
+				"backgroundColor": "#000000",
+				"navigationBarTitleText": "设置"
+				
+			}
+        }
+        ,{
+            "path" : "pages/ModifiedData/ModifiedData",
+            "style" : {
+				"navigationBarTitleText": "个人信息"
+			}
+        }
+		,{
+		    "path" : "pages/Login/login",
+		    "style" : {"navigationStyle":"custom"}
+		}
+		,{
+		    "path" : "pages/phone/phone",
+		    "style" : {"navigationStyle":"custom"}
+		}
+		,{
+		    "path" : "pages/paper/paper",
+		    "style" : {"navigationStyle":"custom"}
+		}
+		,{
+		    "path" : "pages/detail/detail",
+		    "style" : {
+				"navigationBarTitleText": "详情页"
+			}
+		}
+    ],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
+		"navigationBarBackgroundColor": "#fff",
 		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+	    "color": "#878787",
+	    "selectedColor": "#FD6801",
+	    "borderStyle": "black",
+	    "backgroundColor": "#ffffff",
+	    "list": [{
+	        "pagePath": "pages/Index/index",
+	        "iconPath": "static/index.png",
+	        "selectedIconPath": "static/index (1).png",
+	        "text": "首页"
+	    }, {
+	        "pagePath": "pages/Classify/classify",
+	        "iconPath": "static/classify.png",
+	        "selectedIconPath": "static/classify (1).png",
+	        "text": "分类"
+	    }, {
+	        "pagePath": "pages/Shipping/shipping",
+	        "iconPath": "static/shopping.png",
+	        "selectedIconPath": "static/shopping (1).png",
+	        "text": "购物车"
+	    }, {
+	        "pagePath": "pages/My/my",
+	        "iconPath": "static/my.png",
+	        "selectedIconPath": "static/my (1).png",
+	        "text": "我的"
+	    }
+		]
 	}
->>>>>>> 97e92720feae590fe60582fd3daa1a9a3dc3e972
 }
+
+

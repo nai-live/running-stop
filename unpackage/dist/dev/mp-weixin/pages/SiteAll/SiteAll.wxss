@@ -1,0 +1,41 @@
+
+.box.data-v-5ecdaa4b {
+	overflow: hidden;
+}
+.rightBox.data-v-5ecdaa4b{
+	width: 80%;
+	float: left;
+	font-size: 35rpx;
+}
+.rightBox>view.data-v-5ecdaa4b{
+	padding: 10rpx 10rpx;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.leftBox.data-v-5ecdaa4b{
+	width: 20%;
+	float: left;
+	position: relative;
+	min-height: 10rpx;
+}
+.leftBox>view.data-v-5ecdaa4b{
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translate(-50%, 50%);
+	        transform: translate(-50%, 50%);
+}
+.leftBox image.data-v-5ecdaa4b{
+	width: 75rpx;
+	height: 75rpx;
+}
+.name.data-v-5ecdaa4b{
+	font-size: 45rpx;
+	color: #FD6801;
+	font-weight: 600;
+}
+.phone.data-v-5ecdaa4b{
+	font-size: 35rpx;
+	color: #666;
+}
+

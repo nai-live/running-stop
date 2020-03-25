@@ -1,0 +1,80 @@
+
+page {
+	width: 100%;
+	height: 100%;
+}
+#main {
+	width: 100%;
+	height: 100%;
+	background-color: #EEEEEE;
+}
+input {
+	padding: 40rpx 0;
+}
+.input {
+	border-bottom: 1px solid #EAD5BB;
+}
+.phone {
+	margin: 50rpx 0;
+	color: #666;
+	font-size: 25rpx;
+}
+.inp {
+	border-bottom: 1px solid #ccc;
+}
+.check {
+	/* line-height: 25rpx; */
+	font-size: 25rpx;
+	color: #C0C0C0;
+}
+.bg {
+	padding: 50rpx 0;
+}
+.bg button {
+	background-color: #FFD8B9;
+	color: white;
+}
+.top {
+	width: 100%;
+	height: 80rpx;
+	line-height: 80rpx;
+	background-color: #EEEEEE;
+}
+.top-left {
+	width: 75%;
+	line-height: 80rpx;
+	/* height: 100%; */
+	padding-left: 20rpx;
+	float: left;
+}
+.top-left image {
+	vertical-align: middle;
+}
+.top-right {
+	width: 22%;
+	height: 100%;
+	float: right;
+	color: #666;
+	font-size: 32rpx;
+}
+.h1 {
+	font-size: 44rpx;
+	font-weight: bold;
+	margin: 50rpx;
+}
+.from {
+	padding: 50rpx;
+}
+.checkbox {
+	width: 25rpx;
+	height: 25rpx;
+}
+.login {
+	width: 32%;
+	margin: auto;
+	padding-top: 50rpx;
+}
+.login image {
+	margin-left: 50rpx;
+}
+

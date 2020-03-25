@@ -1,0 +1,30 @@
+
+page.data-v-01cc4c26 {
+	background-color: #EEEEEE;
+}
+.body.data-v-01cc4c26 {}
+.title.data-v-01cc4c26 {
+	padding: 15px 20rpx;
+	background-color: #EEEEEE;
+}
+.conBox.data-v-01cc4c26 {
+	background-color: #fff;
+	padding: 13px 40rpx;
+	border-bottom: 1px solid #EEEEEE;
+	position: relative;
+}
+.icon_sel.data-v-01cc4c26 {
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+	width: 50rpx;
+	height: 50rpx;
+	right: 30rpx;
+}
+.icon_sel>image.data-v-01cc4c26{
+	width: 100%;
+	height: 100%;
+	opacity: .3;
+}
+

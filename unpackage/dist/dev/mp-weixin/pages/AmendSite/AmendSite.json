@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "编辑收货地址",
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni-nav-bar/uni-nav-bar"
+  }
+}

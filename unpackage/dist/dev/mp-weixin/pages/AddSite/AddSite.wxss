@@ -1,0 +1,26 @@
+
+.message.data-v-405923a7 {
+	color: #666;
+	line-height: 1.8;
+	padding: 20rpx 40rpx;
+	border-bottom: 1px solid rgba(0, 0, 0, .2);
+	position: relative;
+}
+.message text.data-v-405923a7 {
+	padding: 0 20rpx;
+}
+.icon.data-v-405923a7 {
+	width: 100rpx;
+	height: 100rpx;
+	position: absolute;
+	top: 50%;
+	right: 50rpx;
+	-webkit-transform: translateY(-50%);
+	        transform: translateY(-50%);
+}
+.icon>image.data-v-405923a7{
+	width: 100%;
+	height: 100%;
+	opacity: .3;
+}
+
